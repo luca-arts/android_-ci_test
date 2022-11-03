@@ -1,0 +1,1 @@
+LSL for Android projects. See [liblsl-Android/AndroidStudio](https://github.com/labstreaminglayer/liblsl-Android/tree/master/AndroidStudio) for current procedure.
