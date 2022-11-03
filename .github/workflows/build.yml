@@ -3,7 +3,7 @@ name: Build # name of the workflow
 on:
   push: # specifies events to trigger the workflow
     branches: [ main ] # branches that trigger the workflow
-    
+
 jobs: # groups the jobs to be executed in this workflow
   build: # defines a job called build
     name: 🔨 Build # [optional] name of the job
